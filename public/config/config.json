@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x41601279D016c26D876a7c1100903add043643C9",
+  "SCAN_LINK": "https://scope.klaytn.com/account/0x41601279D016c26D876a7c1100903add043643C9",
+  "NETWORK": {
+    "NAME": "Klaytn Mainnet",
+    "SYMBOL": "KLAY",
+    "ID": 8217
+  },
+  "NFT_NAME": "Sleepy Haetae",
+  "SYMBOL": "HAETAE",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sleepyhaetae",
+  "SHOW_BACKGROUND": true
+}
